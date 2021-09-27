@@ -86,7 +86,7 @@ thead{background-color: dodgerblue  ;
 height: 5px;}
 
 tbody tr:nth-child(even) {background: #f5f5f5}
-tbody tr:nth-child(odd) {background-color: turquoise;}
+tbody tr:nth-child(odd) {background-color: #AFEEEE}
 table td:nth-child(even) {text-align: center;}
 
 
