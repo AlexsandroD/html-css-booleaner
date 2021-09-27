@@ -68,3 +68,24 @@ font-weight: 500;}
 .yellow{
     background-color: yellow;
     }
+
+.tbl{
+    margin-top: 30px;
+    
+
+}
+
+thead{background-color: dodgerblue  ;
+height: 5px;}
+
+tbody tr:nth-child(even) {background: #f5f5f5}
+tbody tr:nth-child(odd) {background-color: turquoise;}
+table td:nth-child(even) {text-align: center;}
+
+
+.small{
+    width: 25%;
+}
+.big{
+    width: 33%;
+}
