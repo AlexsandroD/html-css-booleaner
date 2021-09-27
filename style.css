@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
     margin: 0;
+    
+ 
+    
 }
 
 .container{
@@ -9,7 +12,7 @@
 }
 
 .banner{
-    height: 50px;
+    height: 10%;
     background-image: url(/img/pattern.png);
     background-size: cover;
     background-color:rgb(54, 171, 218);
@@ -17,6 +20,51 @@
 }
 
 .logo{
-    width: 20%;
-    padding-top: 20px;
+    width:20% ;
+    
+
 }
+
+.logo-img{
+    width: 60%;
+    padding-top: 10%;  
+    padding-left: 2%;
+}
+
+.testata {
+  
+    font-size:25px ;
+    color: lightslategray;
+}
+
+h1{
+    color: black;
+}
+
+.turchese{
+    color: rgb(64, 205, 224);
+    font-weight:500;
+    
+}
+
+.little{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.tim-pics{
+font-weight: 500;}
+
+#primo-par{
+    text-align:justify;
+    margin-top: 20px;
+}
+
+#elenco {
+    text-align:justify;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.yellow{
+    background-color: yellow;
+    }
